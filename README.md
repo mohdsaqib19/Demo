@@ -1,3 +1,3 @@
 # Demo
-Git Practice
-<h> This is an Demo File <h>
+Git Practice <br>
+<h1> This is an Demo File <h1>
